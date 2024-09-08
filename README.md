@@ -1,5 +1,5 @@
 Hi guys. I'm Hien 🙋‍♂️ 
-I'm practicing with JavaScript 👨‍💻
+I'm starting to learn C++ 👨‍💻
 
 My Knowledge💡
 <p align='left'>
